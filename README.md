@@ -23,7 +23,7 @@ Proyecto desarrollado con HTML5 y CSS3 para presentar información personal de m
 ![Vista de iPhone](assets/img/pantalla-iphone.png)
 
 ## Demo
-Link a GitHub Pages
+[Link a GitHub Pages](https://lucaballero1995-ux.github.io/tarjeta-presentacion-personal/)
 
 ## Autor
 Lucas Nahuel Caballero
